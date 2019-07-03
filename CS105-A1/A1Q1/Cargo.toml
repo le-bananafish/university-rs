@@ -1,0 +1,10 @@
+[package]
+name = "A1Q1"
+version = "0.1.0"
+authors = ["le-bananafish <11536361+le-bananafish@users.noreply.github.com>"]
+edition = "2018"
+
+[dependencies]
+serde = "1.0"
+serde_derive = "1.0"
+serde_json = "1.0"
